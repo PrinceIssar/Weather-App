@@ -1,0 +1,1 @@
+const  weatherApi = {  key:"450c434e365abba58a7a314a0746d7c1",  baseUrl: ""}  api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
