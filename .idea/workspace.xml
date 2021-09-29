@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="80d36aa4-df95-4561-b575-e5004103be13" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/clear.jpeg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
     </list>
@@ -25,8 +27,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/script.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/style.css" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1sKsB7PJlqN407kZR3IkZuYVI6a" />
@@ -61,7 +63,11 @@
       <workItem from="1620735122370" duration="1777000" />
       <workItem from="1620738688484" duration="8034000" />
       <workItem from="1620799149471" duration="9970000" />
-      <workItem from="1620820768272" duration="2781000" />
+      <workItem from="1620820768272" duration="7618000" />
+      <workItem from="1621323207798" duration="1296000" />
+      <workItem from="1621574608538" duration="2000" />
+      <workItem from="1632149322512" duration="69000" />
+      <workItem from="1632901902418" duration="596000" />
     </task>
     <servers />
   </component>
